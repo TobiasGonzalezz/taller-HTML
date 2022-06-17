@@ -16,7 +16,7 @@ body{
   background:url('./images/bg-pattern-top-desktop.svg') no-repeat, url('./images/bg-pattern-bottom-desktop.svg') no-repeat bottom right;
 }
 main{
-  padding:5rem 7rem 5rem 10rem;
+  padding: 30px 80px 30px 80px;
   width: 100vw;
   height: 100vh;
   display:grid;
@@ -103,7 +103,7 @@ main{
 #cards p{
   font-weight:400 ;
   color: var(--white);
-  line-height: 1.5rem;
+  line-height: 20px;
 }
 
 figure{
